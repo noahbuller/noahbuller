@@ -1,23 +1,28 @@
-👋 Hi, I'm Noah Buller 
+### 👋 Hi, I'm Noah Buller
+___
 
-🎓 Rising Senior at Lehigh University studying Computer Science and Business
-🚀 Full Stack Developer with start-up experience
-🔒 Cybsercurity and Network Engineering Interest
+🎓 Rising senior at Lehigh University studying Computer Science and Business  
 
-🏢 Interning at Javelin
-📬 Reach me at: bullern22r@gmail.com
+🚀 Full-stack developer with startup experience  
 
-🌐 Connect with me:
+🔒 Interested in security engineering and computer networking
 
-LinkedIn Instagram 
+---
 
-Languages and Tools:
+🏢 Interning at [Javelin](https://www.linkedin.com/company/javelin-ai/) 
 
-My Skills
+---
 
 
-Noah Buller's GitHub stats
 
-Coding
+### 🌐 Connect with me:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noahbuller)  
 
+[![Gmail](https://img.shields.io/badge/-bullern22@gmil.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bullern22@gmail.com)
+
+---
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=java,react,aws,git,ts,postgres,github,postman)](https://skillicons.dev)
+<br><br>
