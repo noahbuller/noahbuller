@@ -1,18 +1,23 @@
-## Hi👋
-<!--- 
-[![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahbuller)](https://github.com/anuraghazra/github-readme-stats)
+👋 Hi, I'm Noah Buller 
 
-<!--
-**noahbuller/noahbuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Rising Senior at Lehigh University studying Computer Science and Business
+🚀 Full Stack Developer with start-up experience
+🔒 Cybsercurity and Network Engineering Interest
 
-Here are some ideas to get you started:
+🏢 Interning at Javelin
+📬 Reach me at: bullern22r@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with me:
+
+LinkedIn Instagram 
+
+Languages and Tools:
+
+My Skills
+
+
+Noah Buller's GitHub stats
+
+Coding
+
+
