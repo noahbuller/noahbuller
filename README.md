@@ -26,5 +26,5 @@ ___
 ---
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,react,aws,git,ts,postgres,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,react,go,aws,git,ts,postgres,github,postman)](https://skillicons.dev)
 <br><br>
