@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Noah Buller
 ___
 
-🎓 Rising senior at Lehigh University studying Computer Science and Business  
+🎓 Senior at Lehigh University studying Computer Science and Business  
 
 🚀 Full-stack developer with startup experience  
 
