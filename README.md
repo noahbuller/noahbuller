@@ -11,8 +11,6 @@ ___
 
 🏢 Interning at [Javelin](https://www.linkedin.com/company/javelin-ai/) 
 
-⚙️ Capstone Project (under Dele Atanda): [iQube Protocol](https://alpha.aigentz.me)
-
 ---
 
 
