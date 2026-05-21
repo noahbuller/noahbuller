@@ -1,15 +1,15 @@
 ### 👋 Hi, I'm Noah Buller
 ___
 
-🎓 Senior at Lehigh University studying Computer Science and Business  
+🎓 Lehigh University Graduate in Computer Science and Business (3.62 GPA)
 
 🚀 Full-stack developer with startup experience  
 
-🔒 Interested in security engineering and computer networking
+🔒 Interested in full stack engineering or wep application development
 
 ---
 
-🏢 Interning at [Javelin](https://www.linkedin.com/company/javelin-ai/) 
+🏢 Previous intern at [Javelin](https://www.linkedin.com/company/javelin-ai/) 
 
 ---
 
