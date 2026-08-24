@@ -7,9 +7,11 @@ ___
 
 🔒 Interested in full stack engineering or wep application development
 
+🌐 [More about me](noahbuller.dev)
+
 ---
 
-🏢 Previous intern at [Javelin](https://www.linkedin.com/company/javelin-ai/) 
+🏢 Previous SWE intern at [Javelin](https://www.linkedin.com/company/javelin-ai/) 
 
 ---
 
