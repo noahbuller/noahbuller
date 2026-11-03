@@ -8,7 +8,7 @@
 
 🔒 Interested in full stack engineering or web application development
 
-🌐 [More about me](noahbuller.dev)
+🌐 [More about me](https://www.noahbuller.dev)
 
 ---
 
